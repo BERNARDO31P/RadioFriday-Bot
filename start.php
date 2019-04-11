@@ -8,6 +8,7 @@ if ($argc < 2)
 switch ($argv[1]) {
     case "start":
         if (exec("which composer") == "")
+            echo("Seems like composer isn't installed yet - installing composer...\n");
             system("apt install composer -y");
 
         system("composer validate");
