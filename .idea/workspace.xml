@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee5c0bd-73ef-4000-aedc-8c063005fed2" name="Default Changelist" comment="Changed README.md - Updated participants and webpages">
+    <list default="true" id="cee5c0bd-73ef-4000-aedc-8c063005fed2" name="Default Changelist" comment="Updated README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <first_editor>
+                <caret column="30" selection-start-column="30" selection-end-column="30" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,7 +160,7 @@
       <updated>1554927903416</updated>
       <workItem from="1554927904545" duration="13848000" />
       <workItem from="1554982206781" duration="4416000" />
-      <workItem from="1554981754105" duration="1722000" />
+      <workItem from="1554981754105" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1554981834376</created>
@@ -176,11 +176,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554987860643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated README.md">
+      <created>1554989346972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554989346972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated README.md">
+      <created>1554989380568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554989380568</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated README.md">
+      <created>1554989424139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554989424139</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19986000" />
+    <option name="totallyTimeSpent" value="20227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -217,7 +238,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="Changed README.md - Updated participants and webpages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed README.md - Updated participants and webpages" />
+    <MESSAGE value="Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -298,8 +320,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <first_editor>
+            <caret column="30" selection-start-column="30" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
