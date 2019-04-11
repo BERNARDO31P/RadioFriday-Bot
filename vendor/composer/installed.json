@@ -1,0 +1,47 @@
+[
+    {
+        "name": "jenner/simple_fork",
+        "version": "1.2.2",
+        "version_normalized": "1.2.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/huyanping/simple-fork-php.git",
+            "reference": "4af8f61b283a612492ca9ab790472309ce681156"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/huyanping/simple-fork-php/zipball/4af8f61b283a612492ca9ab790472309ce681156",
+            "reference": "4af8f61b283a612492ca9ab790472309ce681156",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-03-22T03:46:18+00:00",
+        "type": "package",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Jenner\\SimpleFork\\": "./src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jenner",
+                "email": "hypxm@qq.com",
+                "homepage": "http://www.huyanping.cn"
+            }
+        ],
+        "description": "simple multi process manager based on pcntl",
+        "keywords": [
+            "fork",
+            "fork manager",
+            "process ipc",
+            "process manager"
+        ]
+    }
+]

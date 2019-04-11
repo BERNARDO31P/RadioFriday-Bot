@@ -1,0 +1,11 @@
+{
+  "name": "radiofriday/cloudbot",
+  "description": "Cloudbot from the RadioFriday network",
+  "license": "proprietary",
+  "require": {
+    "jenner/simple_fork": "^1.2",
+    "ext-pcntl": "*",
+    "ext-json": "*",
+    "ext-posix": "*"
+  }
+}
