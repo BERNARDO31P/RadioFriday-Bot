@@ -1,6 +1,6 @@
 #### **RadioFriday CloudBot by Bernardo de Oliveira & Corsin Hemminger**
 -
-yeet bois
-© 2019 [BERNARDO.FM][webpage] - All rights reserved.
+© 2019 [BERNARDO.FM][bernardo] & [CORSIN.IO][corsin] - All rights reserved.
 
-[webpage]: https://bernardo.fm
+[bernardo]: https://bernardo.fm
+[corsin]: https://corsin.io
