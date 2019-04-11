@@ -1,6 +1,6 @@
 {
   "name": "radiofriday/cloudbot",
-  "description": "Cloudbot from the RadioFriday network",
+  "description": "CloudBot of the Radio Friday network",
   "license": "proprietary",
   "require": {
     "jenner/simple_fork": "^1.2",
