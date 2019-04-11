@@ -1,4 +1,4 @@
-#### **Radio Friday Cloud Bot 🔥 🤖 by Bernardo de Oliveira & Corsin Hemminger**
+#### **Radio Friday Cloud Bot ☁🤖 by Bernardo de Oliveira & Corsin Hemminger**
 
 #
 
